@@ -7,7 +7,7 @@ body {
 }
 
 header {
-    background-color: #333;
+    background-color: #27383e;
     color: #fff;
     padding: 1em 0;
 }
@@ -30,7 +30,7 @@ header {
 }
 
 .announcement-bar {
-    background-color: #ffeb3b;
+    background-color: #ffdb84;
     color: #333;
     overflow: hidden;
     white-space: nowrap;
@@ -42,7 +42,7 @@ header {
 .announcement-content {
     display: inline-flex;
     white-space: nowrap;
-    animation: scroll 10s linear infinite;
+    animation: scroll 30s linear infinite;
 }
 
 @keyframes scroll {
@@ -92,7 +92,7 @@ h2 {
 }
 
 footer {
-    background-color: #333;
+    background-color: #27383e;
     color: #fff;
     text-align: center;
     padding: 1em 0;
