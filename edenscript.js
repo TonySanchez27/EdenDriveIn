@@ -1,12 +1,12 @@
 document.addEventListener('DOMContentLoaded', () => {
     const movies = {
         screen1: [
-            { title: 'Movie 1', poster: 'movie1-poster.jpg' },
-            { title: 'Movie 2', poster: 'movie2-poster.jpg' }
+            { title: '', poster: 'movie1-poster.jpg' },
+            { title: '', poster: 'movie2-poster.jpg' }
         ],
         screen2: [
-            { title: 'Movie 3', poster: 'movie3-poster.jpg' },
-            { title: 'Movie 4', poster: 'movie4-poster.jpg' }
+            { title: '', poster: 'movie3-poster.jpg' },
+            { title: '', poster: 'movie4-poster.jpg' }
         ]
     };
 
