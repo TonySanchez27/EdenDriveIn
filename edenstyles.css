@@ -7,7 +7,7 @@ body {
 }
 
 header {
-    background-color: #27383e; /* Updated background color */
+    background-color: #27383e; 
     color: #fff;
     padding: 1em 0;
 }
@@ -20,29 +20,29 @@ header {
 
 .logo {
     height: 100px;
-    margin-right: 20px; /* Adds space between the logo and subtitle */
+    margin-right: 20px;
 }
 
 .subtitle {
     font-style: italic;
     margin: 0;
     color: #fff;
-    flex: 1; /* Ensures subtitle takes available space */
+    flex: 1;
 }
 
 .social-icons {
     display: flex;
-    gap: 10px; /* Space between icons */
+    gap: 10px;
 }
 
 .social-icons img {
-    height: 40px; /* Adjust height as needed */
+    height: 40px;
     width: auto;
     vertical-align: middle;
 }
 
 .announcement-bar {
-    background-color: #ffdb84; /* Updated background color */
+    background-color: #ffdb84;
     color: #333;
     overflow: hidden;
     white-space: nowrap;
@@ -94,7 +94,7 @@ h2 {
 
 .movie {
     text-align: center;
-    padding-bottom: 20px; /* Adds padding under each movie poster */
+    padding-bottom: 20px;
 }
 
 .movie img {
@@ -105,7 +105,7 @@ h2 {
 }
 
 footer {
-    background-color: #27383e; /* Updated background color */
+    background-color: #27383e;
     color: #fff;
     text-align: center;
     padding: 1em 0;
